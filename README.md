@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ashincoder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="ashincoder" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ashin antony" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="ashin antony" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCZqKL3vIdyHUiLuR1vYwVgw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/youtube.svg" alt="ashin antony" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -24,7 +24,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashincoder&show_icons=true&theme=radical&locale=en&layout=compact" alt="ashincoder" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashincoder&show_icons=true&locale=en" alt="ashincoder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashincoder&show_icons=true&theme=radical&locale=en" alt="ashincoder" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashincoder&" alt="ashincoder" /></p>
 
