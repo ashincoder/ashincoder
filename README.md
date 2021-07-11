@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm ashincoder</h1>
 <h3 align="center">A kid in India jumping to the world of linux</h3>
 
-- 🔭 I’m currently working on a neovim configuration called [NvChad](https://github.com/siduck76/NvChad)
+- 🔭 I’m currently working on a neovim configuration called [StarVim](https://github.com/ashincoder/StarVim)
 
 - 🌱 I’m currently learning **python**
 
