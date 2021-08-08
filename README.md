@@ -1,5 +1,6 @@
 # Hi I am ashincoder
 
+
 <h1 align="center">Hi 👋, I'm ashincoder</h1>
 
 - 🔭 I’m currently working on a neovim configuration called [StarVim](https://github.com/ashincoder/StarVim)
@@ -9,6 +10,8 @@
 - 📫 How to reach me **ashinant15@gmail.com**
 
 - ⚡ Fun fact **I am currently using Odin Project**
+
+![Profile views](https://gpvc.arturio.dev/ashincoder)
 
 <h3 align="center">Contact Me</h3>
 <p align="center">
