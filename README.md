@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **ashinant15@gmail.com**
 
-- ⚡ Fun fact **I am currently using Odin Project**
-
 ![Profile views](https://gpvc.arturio.dev/ashincoder)
 
 <h3 align="center">Contact Me</h3>
