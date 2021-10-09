@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm ashincoder</h1>
 
-- 🔭 I’m currently working on a neovim configuration called [StarVim](https://github.com/ashincoder/StarVim)
+- 🔭 I’m currently working on my career.
 
 - 🌱 I’m currently learning **lua and python**
 
