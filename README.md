@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://t.me/ashincoder" target="_blank"><img src="https://img.shields.io/badge/Telegram-6076d6?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://discord.com/users/ashincoder#5156" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://discord.com/users/ashincoder#5156" target="_blank"><img src="https://img.shields.io/badge/Twitter-7289DA?style=for-the-badge&logo=twitter&logoColor=white" alt="Discord" /></a>
+  <a href="https://instagram.com/_ashin.antony_" target="_blank"><img src="https://img.shields.io/badge/Instagram-a615bf?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
 <h5>Markup Languages</h5>
